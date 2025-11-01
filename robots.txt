@@ -1,0 +1,6 @@
+# Allow all web crawlers to access the entire site
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap
+Sitemap: https://swabhagaenterprises.com/sitemap.xml
